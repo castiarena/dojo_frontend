@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Bateria de tests para Spreadsheet Componente spreadsheet renderiza una tabla vacía 1`] = `"<table></table>"`;
+
+exports[`Bateria de tests para Spreadsheet Renderizar una tabla con header 1`] = `"<table><thead><tr><td></td><td></td></tr><thead></table>"`;
