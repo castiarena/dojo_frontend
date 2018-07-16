@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "jest",
+    "test-logic": "cd logic && npm test",
     "test-watch": "jest --watch"
   },
   "keywords": [],
