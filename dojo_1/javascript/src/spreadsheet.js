@@ -5,8 +5,12 @@ export default class SpreadSheet {
         this.cells = cells;
     }
 
+    renderRows(){
+        return this.cells.render();
+    }
+
     render(){
-        return `<table></table>`;
+        return `<table><h1>HOLA pepe</h1></table>`;
     }
 }
 

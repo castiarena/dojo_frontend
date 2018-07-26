@@ -1,0 +1,5 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Bateria de tests para Spreadsheet MUNDO 1`] = `"<table><h1>HOLA mundo</h1></table>"`;
+
+exports[`Bateria de tests para Spreadsheet PEPE 1`] = `"<table><h1>HOLA mundo</h1></table>"`;
