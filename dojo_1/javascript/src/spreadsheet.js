@@ -6,7 +6,7 @@ export default class SpreadSheet {
     }
 
     render(){
-        return `<table>${this.cells.map(cell => cell.render())}</table>`;
+        return `<table></table>`;
     }
 }
 
